@@ -8,19 +8,25 @@ I'm George an Analyst with over 9 years of experience. I pride myself as a highl
 
 #### Languages and Tools:
 <!---Python-->
-<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/56b6428e-6e3e-4fe4-8308-dd463a7431cf.png" width="50" height="50">
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/66e09447-2d64-4d49-b57f-a68bdc37a105" width="40" height="40">
 
 <!---MS SQL-->
-<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/7040b769-37e6-4674-8595-b525b12a00a3.png" width="50" height="50">
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/f7c692d0-fb00-424d-9921-2b74f7f2c9c7" width="40" height="40">
 
 <!---VS Code-->
-<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/576a1ae0-3308-4a55-aa41-699ea60bf088.png" width="40" height="40">
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/24386dbc-190f-4c2f-8783-d34c7e5633e5" width="40" height="40">
 
 <!---Power BI-->
-<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/d92f1178-d147-45b1-a58b-ffe1f7c5736d.png" width="40" height="40">
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/49e8775f-2a09-4759-b4fb-9b0685d81bff" width="40" height="40">
 
 <!---Excel-->
-<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/5f65b056-b704-484c-af21-28bc6d81c472.png" width="40" height="40">
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/a4cae9cc-3ebd-4d0e-96b3-87c59ac56295" width="40" height="40">
+
+
+
+
+
+
 
 
 
