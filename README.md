@@ -1,4 +1,4 @@
-#### Hello there! 👋
+### Hello there! 👋
 
 I'm George an Analyst with over 9 years of experience. I pride myself as a highly driven collaborative individual with a history of effectively partnering across various departments to communicating data insights through storytelling using data visualisations. I believe my key strengths include, collecting, processing, and interpreting complex data sets using tools such as SQL, Python, Excel, and Power BI. I am passionate about data analysis and data science, eager to learn new techniques and methods to solve data-driven problems.
 
