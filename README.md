@@ -7,16 +7,27 @@ I'm George an Analyst with over 9 years of experience. I pride myself as a highl
 
 
 #### Languages and Tools:
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!---Python-->
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/56b6428e-6e3e-4fe4-8308-dd463a7431cf.png" width="50" height="50">
+
+<!---MS SQL-->
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/7040b769-37e6-4674-8595-b525b12a00a3.png" width="50" height="50">
+
+<!---VS Code-->
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/576a1ae0-3308-4a55-aa41-699ea60bf088.png" width="40" height="40">
+
+<!---Power BI-->
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/d92f1178-d147-45b1-a58b-ffe1f7c5736d.png" width="40" height="40">
+
+<!---Excel-->
+<img src="https://github.com/tsegeorge/tsegeorge/assets/145837523/5f65b056-b704-484c-af21-28bc6d81c472.png" width="40" height="40">
+
 
 
 #### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/in/georgetse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/georgetse" height="30" width="40" /></a>
 </p>
-
-
-
 
 
 
